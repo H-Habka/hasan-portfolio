@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/hasan-portfolio/static/css/main.21fb3b11.css",
+    "main.js": "/hasan-portfolio/static/js/main.9dc92f2a.js",
+    "static/media/certificate1.webp": "/hasan-portfolio/static/media/certificate1.412db47649257e8cdb9b.webp",
+    "static/media/real-design1.webp": "/hasan-portfolio/static/media/real-design1.f3545a90161240d99dce.webp",
+    "static/media/certificate2.webp": "/hasan-portfolio/static/media/certificate2.358ee0a5fa695a2b2d94.webp",
+    "static/media/rhino10.webp": "/hasan-portfolio/static/media/rhino10.acc2a5f8fbfb2734b3c0.webp",
+    "static/media/real-design4.webp": "/hasan-portfolio/static/media/real-design4.bc99d34024665da0e5ed.webp",
+    "static/media/real-design3.webp": "/hasan-portfolio/static/media/real-design3.db31887820f99808df2b.webp",
+    "static/media/real-design6.webp": "/hasan-portfolio/static/media/real-design6.4b8eefd3148066934689.webp",
+    "static/media/rhino5.webp": "/hasan-portfolio/static/media/rhino5.2aac6e7eebec3f755dfb.webp",
+    "static/media/rhino8.webp": "/hasan-portfolio/static/media/rhino8.e45a944a7446d796a984.webp",
+    "static/media/rhino4.webp": "/hasan-portfolio/static/media/rhino4.f7b4c4198b5f5902e0d7.webp",
+    "static/media/real-design2.webp": "/hasan-portfolio/static/media/real-design2.02657adc4bb379d43a38.webp",
+    "static/media/real-design5.webp": "/hasan-portfolio/static/media/real-design5.eda564c058de74b3722c.webp",
+    "static/media/aboutMe.webp": "/hasan-portfolio/static/media/aboutMe.e271effdd0c5f90cdef0.webp",
+    "static/media/design2.webp": "/hasan-portfolio/static/media/design2.3e4d8648c927b802efe1.webp",
+    "static/media/rhino7.webp": "/hasan-portfolio/static/media/rhino7.b356fe91eed73bd72117.webp",
+    "static/media/rhino1.webp": "/hasan-portfolio/static/media/rhino1.88a3f29537253ebfafb8.webp",
+    "static/media/rhino13.webp": "/hasan-portfolio/static/media/rhino13.57951e9e065f73a54f90.webp",
+    "static/media/rhino9.webp": "/hasan-portfolio/static/media/rhino9.619e3f599564258fce99.webp",
+    "static/media/rhino12.webp": "/hasan-portfolio/static/media/rhino12.1c48aed7d5f5dface7e0.webp",
+    "static/media/rhino2.webp": "/hasan-portfolio/static/media/rhino2.9861edb7ddf762b031f9.webp",
+    "static/media/rhino11.webp": "/hasan-portfolio/static/media/rhino11.c636c54d6d991c67ebbb.webp",
+    "static/media/design1.webp": "/hasan-portfolio/static/media/design1.d24e365aafe3e90645f2.webp",
+    "static/media/rhino6.webp": "/hasan-portfolio/static/media/rhino6.77949c827befbb5577cd.webp",
+    "static/media/rhino3.webp": "/hasan-portfolio/static/media/rhino3.ccd31c6baf4022c447f7.webp",
+    "static/media/design3.webp": "/hasan-portfolio/static/media/design3.995ff574110c147fadaf.webp",
+    "static/media/profile.webp": "/hasan-portfolio/static/media/profile.c2e0f5dc18348131e480.webp",
+    "static/media/bg.webp": "/hasan-portfolio/static/media/bg.ab4b10173186c4c1bf60.webp",
+    "index.html": "/hasan-portfolio/index.html",
+    "static/media/white-check.webp": "/hasan-portfolio/static/media/white-check.1039316d4cbcc103ea0c.webp",
+    "main.21fb3b11.css.map": "/hasan-portfolio/static/css/main.21fb3b11.css.map",
+    "main.9dc92f2a.js.map": "/hasan-portfolio/static/js/main.9dc92f2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21fb3b11.css",
+    "static/js/main.9dc92f2a.js"
+  ]
+}
