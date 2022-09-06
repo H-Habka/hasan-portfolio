@@ -1,0 +1,6 @@
+export {default as HeaderSection} from './HeaderSection'
+export {default as AboutMeSection} from './AboutMeSection'
+export {default as ContactSection} from './ContactSection/ContactSection'
+export {default as FloatingNavLink} from './FloatingNavLink/FloatingNavLink'
+export {default as CarosalSection} from './CarosalSection'
+export {default as ExperinceSection} from './ExperinceSection/ExperinceSection'
