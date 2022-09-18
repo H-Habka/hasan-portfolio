@@ -8,8 +8,9 @@ import {
   ContactSection,
   FloatingNavLink,
   CarosalSection,
-  ExperinceSection
+  ExperinceSection,
 } from "./components";
+import AutoCadSection from "./components/AutoCadSection/AutoCadSection";
 
 const rhinoImages = [
   {
@@ -65,6 +66,40 @@ const rhinoImages = [
     image: "rhino12.webp",
   },
 ];
+const autocadImages = [
+  {
+    id: 0,
+    image: "autocad/autocad1.webp",
+  },
+  {
+    id: 1,
+    image: "autocad/autocad2.webp",
+  },
+  {
+    id: 2,
+    image: "autocad/autocad5.webp",
+  },
+  {
+    id: 3,
+    image: "autocad/autocad6.webp",
+  },
+  {
+    id: 4,
+    image: "autocad/autocad7.webp",
+  },
+  {
+    id: 5,
+    image: "autocad/autocad8.webp",
+  },
+  {
+    id: 6,
+    image: "autocad/autocad9.webp",
+  },
+  {
+    id: 7,
+    image: "autocad/autocad10.webp",
+  },
+];
 
 const realDesignImages = [
   {
@@ -102,7 +137,7 @@ function App() {
       className="w-screen overflow-x-hidden bg-one"
       style={{ backgroundImage: "url(" + background + ")" }}
     >
-      <FloatingNavLink />
+      {/* <FloatingNavLink /> */}
       <HeaderSection />
       <AboutMeSection />
       <CarosalSection
@@ -110,6 +145,7 @@ function App() {
         title="Rhino Design"
         data={rhinoImages}
       />
+      <AutoCadSection data={autocadImages}/>
       <ExperinceSection />
       <div className="mt-20" />
       <CarosalSection

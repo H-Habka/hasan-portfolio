@@ -82,7 +82,7 @@ const CarosalSection = ({ data, title, imagesFolder }) => {
         <div className="text-lg text-four">Some Of My Work</div>
         <div className="text-3xl text-two">{title}</div>
       </div>
-      <div className="flex flex-col md:flex-row md:h-screen p-2 ">
+      <div className="flex flex-col md:flex-row md:h-[92vh] p-2 ">
         <div className="w-full md:w-9/12 object-cover  relative min-h-[50vh] sm:min-h-[70vh] ">
           {data.map((item) => (
             <div
@@ -95,7 +95,7 @@ const CarosalSection = ({ data, title, imagesFolder }) => {
             >
               {item.id === currentActive && (
                 <LazyLoadImage
-                  className="w-full h-full object-fit"
+                  className="w-full h-full max-w-[1000px] object-fit"
                   src={require(`../images/${imagesFolder}/${data[currentActive].image}`)}
                   alt={data[currentActive].image}
                 />

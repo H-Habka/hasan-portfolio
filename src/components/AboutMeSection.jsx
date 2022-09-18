@@ -8,17 +8,17 @@ const data = [
   {
     id: 0,
     image: "aboutMe.webp",
-    text: "hello my name is hasan salah habka and i worked as ships designer one",
+    text: "An honoring ceremony at Mare Marine Shipping Company at the invitation of the owner of the company, Captain Zou Alfekar Alhachmi",
   },
   {
     id: 1,
     image: "certificate1.webp",
-    text: "hello my name is hasan salah habka and i worked as ships designer two",
+    text: "I was awarded a certificate of appreciation by the Syrian company Mare Marine Shipping",
   },
   {
     id: 2,
     image: "certificate2.webp",
-    text: "hello my name is hasan salah habka and i worked as ships designer three",
+    text: "I was awarded a certificate of appreciation by the Iranian company Mobin Marine Design Technical Engineering",
   },
 ];
 const AboutMeSection = () => {
